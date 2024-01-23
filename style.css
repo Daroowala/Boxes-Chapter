@@ -1,9 +1,8 @@
-img{
+/* img{
     width: 50%;
-    height: 50%;
-}
+} */
 .main {
 border: 2px solid red;
-min-width: 200%;
-max-width: 700%;
+width: 550px;
+height: 200px;
 }
