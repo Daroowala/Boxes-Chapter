@@ -1,8 +1,11 @@
-/* img{
+img{
     width: 50%;
-} */
+}
 .main {
 border: 2px solid red;
 width: 550px;
-height: 200px;
+height: 300px;
+min-height: 200px;
+max-height: 100px;
+overflow: scroll;
 }
