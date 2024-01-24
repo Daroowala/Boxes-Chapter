@@ -49,5 +49,6 @@ text-shadow: -5px -4px 3px black;
   margin: 2% 4% 5% 4%;
   padding: 2% 4% 2% 4%;
   box-shadow: 2px 3px 10px green;
-  border-radius: 10%;
+  border-top-right-radius: 10%;
+  border-bottom-left-radius: 10%;
 }
