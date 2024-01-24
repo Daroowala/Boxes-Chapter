@@ -19,11 +19,15 @@ img {
   border-left-width: 8px;
   border-bottom-color: brown;
   border-right-color: black;
-  margin-top: 60px;
+  margin-top: 30px;
   margin-right: auto;
   margin-bottom: 30px;
   margin-left: auto;
   text-align: center;
-  
-  
+}
+li{
+  background-color: darkorange;
+  margin: 10px;
+  padding: 10px;
+  display: inline;
 }
