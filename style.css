@@ -41,3 +41,13 @@ li {
 font-size: 200%;
 text-shadow: -5px -4px 3px black;
 }
+.pp1{
+  font-size: larger;
+  font-weight: 800;
+  border: 5px solid red;
+  text-align: center;
+  margin: 2% 4% 5% 4%;
+  padding: 2% 4% 2% 4%;
+  box-shadow: 2px 3px 10px green;
+  border-radius: 10%;
+}
