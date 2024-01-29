@@ -25,11 +25,11 @@ img {
   margin-left: auto;
   text-align: center;
 }
-li {
+.inline{
   background-color: darkorange;
   margin: 10px;
   padding: 10px;
-  display: inline;
+  /* display: inline; */
 }
 .tn{
   text-align: center;
